@@ -2,7 +2,7 @@
   <div class="container">
     <div class="card pt-3">
       <div class="card-body">
-        <h5 class="card-title">VUE 3 TODOLIST APP</h5>
+        <h5 class="card-title">TODOLIST APP</h5>
         <div class="small">
           <div>Total: {{ todos.length }}</div>
           <div>
